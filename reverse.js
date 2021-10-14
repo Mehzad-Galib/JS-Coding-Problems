@@ -11,12 +11,12 @@ var statement = "Hello alien vai brothers."
 var forAlien = reverseText(statement);
 console.log(forAlien);
 
-// //Reverse Method 2(Text)
+//Reverse Method 2(Text)
 var sentence = "I am hardworking. I am serious. I am sure I will do it";
 var reverse = sentence.split('').reverse().join("");
 console.log(reverse)
 
-// // Reversing A Long Number
+// Reversing A Long Number
 function reverseNum(n) {
     let result = n.toString();
     let rev = result.split("").reverse().join("");
