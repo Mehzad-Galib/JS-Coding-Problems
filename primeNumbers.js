@@ -12,3 +12,9 @@ function isPrime(n) {
 var result = isPrime(53);
 console.log(result);
 // testing things
+
+const x = 7;
+const y = 8;
+console.log(x + y);
+
+console.log(x ** 2);
