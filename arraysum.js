@@ -6,6 +6,6 @@ function anArray(num) {
     }
     return total;
 }
-var num = [78, 95, 42, 56, 99, 10, 100];
+var num = [78, 95, 42, 56, 99, 10, 89];
 var result = anArray(num);
 console.log(result);

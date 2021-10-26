@@ -9,12 +9,5 @@ function isPrime(n) {
     return "Is prime Number";
 
 }
-var result = isPrime(53);
+const result = isPrime(53);
 console.log(result);
-// testing things
-
-const x = 7;
-const y = 8;
-console.log(x + y);
-
-console.log(x ** 2);

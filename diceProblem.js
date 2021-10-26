@@ -1,2 +1,1 @@
-var dice = Math.ceil(Math.random() * 6);
-console.log(dice);
+console.log(Math.ceil(Math.random() * 6));
